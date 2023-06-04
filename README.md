@@ -3,8 +3,8 @@
 Auto Paste sends specific messages as many times as you want and automatically sends them.
 ## Installation
 
-- [Download](https://github.com/AlphaBMJy/AutoPaste/archive/refs/heads/main.zip) this repo
-- Execute the [code.scpt](https://github.com/AlphaBMJy/AutoPaste/blob/main/code.scpt) file. A program called [script editor](https://support.apple.com/guide/script-editor/welcome/mac) should open and you should see the code.
+- [Download](https://github.com/AlphaBMJy/AutoPaste-macos/archive/refs/heads/main.zip) this repo
+- Execute the [code.scpt](https://github.com/AlphaBMJy/AutoPaste-macos/blob/main/code.scpt) file. A program called [script editor](https://support.apple.com/guide/script-editor/welcome/mac) should open and you should see the code.
 
 Press  
 ```bash
